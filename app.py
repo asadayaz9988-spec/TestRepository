@@ -42,6 +42,7 @@ st.markdown(
 
 
 # ----- HOME PAGE HEADER -----
+st.markdown("---")
 st.markdown("""
 <div style='text-align: center; padding: 10px;'>
     <h1 style='color:rgb(128 12 85); font-size:38px;'>
